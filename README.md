@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fülöp Dobó</h1>
 <h3 align="center">A passionate full-stack developer. Specialized on C# .Net</h3>
 
-- 🔭 currently I'm busy with Devops position interview. Catch me later...
+- 🔭 currently I'm working as Devops Engineer by Csihakft company.
 
 - 🔭 I’m currently working on [Apartman manager](https://github.com/Dfulop98/ApartmanManager)
 
