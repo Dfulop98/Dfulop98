@@ -1,14 +1,10 @@
 <h1 align="center">Hi 👋, I'm Fülöp Dobó</h1>
-<h3 align="center">A passionate full-stack developer. Specialized on C# .Net</h3>
+<h3 align="center">DevOps engineer skilled in automation, version control, multi-language programming, Linux, server and network management, Cloud technologies, Ochestration tools, Monitoring, and soo many else... </h3>
 
 - 🔭 currently I'm working as Devops Engineer by Csihakft company.
 
-- 🔭 I’m currently working on [Apartman manager](https://github.com/Dfulop98/ApartmanManager)
-
-- 🌱 I’m currently learning **HardhatJs, NextJs, React, TypeScript**
-
-- 💬 Ask me about **.Net, C#, NextJs, JavaScript, HTML/CSS, MSSQL, PGSQL**
-
+- 💬 Ask me about **.Net, C#, NextJs, JavaScript, HTML/CSS, MSSQL, PGSQL, go, c++, Java, PHP, bash, pwsh, nvim, K8s, Azure, Aws, Hosting, Grafana and all related monitoring stack, etc ... **
+- 
 - 📫 How to reach me **dobo.fulop97@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
