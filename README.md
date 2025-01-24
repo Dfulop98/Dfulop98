@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Fülöp Dobó</h1>
 <h3 align="center">DevOps engineer skilled in automation, version control, multi-language programming, Linux, server and network management, Cloud technologies, Ochestration tools, Monitoring, and soo many else... </h3>
 
-- 🔭 currently I'm working as Devops Engineer by Csihakft company.
-
-- 💬 Ask me about **.Net, C#, NextJs, JavaScript, HTML/CSS, MSSQL, PGSQL, go, c++, Java, PHP, bash, pwsh, nvim, K8s, Azure, Aws, Hosting, Grafana and all related monitoring stack, etc ... **
-- 
-- 📫 How to reach me **dobo.fulop97@gmail.com**
+- DevOps: Linux server management, infrastructure design, system administration, ci-cd implemetations.
+- Web Development: Building web applications with Next.js and creating smaller monitoring tools in PHP. Experienced in Angular, react, nodejs.
+- C# Development: Experience with complex codebases and problem-solving.
+- Continuous Learning: Actively learning new languages like Go (Golang), Rust, Ruby, C. Mostly for lightweight monitoring services
+- Algorithmic Trading: 8+ years of experience in stock and forex trading, now focused on code-based trading.
+  - Developing custom indicators and trading tools.
+  - Currently working on an LSTM-based price prediction bot in Python.
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
